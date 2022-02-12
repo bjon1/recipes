@@ -1,0 +1,19 @@
+/* styles.css */
+
+*{
+    background-color: #23272A;
+    color: white;
+}
+
+.center {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button{
+    font-size: 16px;
+}
